@@ -1,0 +1,29 @@
+.user-profile__wrapper {
+  padding: 1.5rem;
+  background-color: rgb(241, 236, 236);
+}
+
+.user-profile__wrapper span {
+  display: block;
+}
+
+.user-profile__contact-details {
+  margin-bottom: 1.5rem;
+}
+
+.user-profile {
+  margin-bottom: 2.2rem;
+}
+
+.user-profile__company--bs {
+  font-weight: bold;
+}
+
+.user-profile__details-button {
+  display: flex;
+  justify-content: center;
+}
+
+.user-profile__details-button button {
+  padding: 2rem 5.5rem;
+}

@@ -1,0 +1,19 @@
+.header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 236, 236);
+  margin-bottom: 2.5rem;
+}
+
+.header__back span {
+  font-size: 4rem;
+}
+
+.header__username {
+  display: flex;
+  align-items: center;
+}
+
+.header__username span {
+  font-size: 1.8rem;
+}

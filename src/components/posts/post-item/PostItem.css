@@ -1,0 +1,25 @@
+.post_item__wrapper {
+  display: flex;
+  background-color: rgb(241, 236, 236);
+  margin-bottom: 0.8rem;
+  padding: 0.5rem 0;
+}
+
+.post_item__detail {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post_item__detail:hover {
+  cursor: pointer;
+}
+
+.post_item__detail--title span {
+  font-size: 1.2rem;
+}
+
+.post_item__detail--arrow {
+  padding-right: 1rem;
+}

@@ -1,0 +1,13 @@
+.add-post__wrapper span {
+  font-size: 4rem;
+}
+
+.dialog__wrapper {
+  width: 40vw;
+}
+
+.form__buttons {
+  margin: 1.3rem;
+  display: flex;
+  justify-content: space-around;
+}

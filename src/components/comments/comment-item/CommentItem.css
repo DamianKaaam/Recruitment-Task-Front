@@ -1,0 +1,16 @@
+.comment-item__wrapper {
+  background-color: rgb(241, 236, 236);
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+}
+
+.comment-item__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.4rem;
+}
+
+.comment-item__header--name {
+  font-weight: bold;
+}

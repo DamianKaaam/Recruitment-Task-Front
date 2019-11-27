@@ -1,0 +1,13 @@
+.comments-list__buttons {
+  background-color: rgb(241, 236, 236);
+}
+
+.comments-field {
+  margin-top: 0.5rem;
+}
+
+.comments-list__buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: .5rem 1rem;
+}
